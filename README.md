@@ -1,6 +1,5 @@
 # BARBER APP
 
-Barber App
 
 ## Getting Started
 
@@ -35,9 +34,9 @@ What distinguishes the MOSE application?
 - Possibility to charge the private wallet.
 - Easy to withdraw profits.
 
-## Link App on GooglePlay
+## Link App on GooglePlay [link](https://play.google.com/store/apps/details?id=com.barberMose.user)
+## Link App on AppStore [link](https://apps.apple.com/us/app/mose-barber-%D9%85%D9%88%D8%B3-%D8%AD%D9%84%D8%A7%D9%82/id1591610720)
 
-[link](https://play.google.com/store/apps/details?id=com.barberMose.user)
 
 **Packages I'am using:**
 
